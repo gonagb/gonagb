@@ -8,7 +8,7 @@
 <h3> - 👨‍💻 All of my projects are available at https://gonagb.com"
 </h3>
 
-<h3> - 📫 How to reach me **gonagb96@gmail.com**</h3>
+<h3> - 📫 How to reach me gonagb96@gmail.com </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
