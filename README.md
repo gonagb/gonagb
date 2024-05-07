@@ -5,7 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gonagb&label=Profile%20views&color=0e75b6&style=flat" alt="gonagb" /> </p>
 
 
-<h3> - 👨‍💻 All of my projects are available at [gonagb.com](gonagb.com)</h3>
+<h3> - 👨‍💻 All of my projects are available at <a href="https://gonagb.com" target="_blank" rel="gonagb.com"> 
+</h3>
 
 <h3> - 📫 How to reach me **gonagb96@gmail.com**</h3>
 
