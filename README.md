@@ -5,10 +5,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gonagb&label=Profile%20views&color=0e75b6&style=flat" alt="gonagb" /> </p>
 
 
-<h3> - 👨‍💻 All of my projects are available at https://gonagb.com"
+<h3> - 👨‍💻 All of my projects are available at https://gonagb.com
 </h3>
 
-<h3> - 📫 How to reach me gonagb96@gmail.com </h3>
+<h3> - 📫 How to reach me: gonagb96@gmail.com </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
